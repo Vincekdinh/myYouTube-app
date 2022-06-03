@@ -1,4 +1,4 @@
-Generic version of the YouTube application using ReactJS
+Generic version of the YouTube application built w/ ReactJS
 
 Live demo: https://youtube84.netlify.app
 
