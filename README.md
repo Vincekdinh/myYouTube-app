@@ -1,4 +1,4 @@
-### Generic version of the YouTube application built w/ ReactJS
+### Find videos using YouTube API built w/ ReactJS
 
 ## Live demo: https://youtube84.netlify.app
 
